@@ -1,0 +1,1 @@
+# E-R-diagram-for-general-store-management-system
